@@ -26,6 +26,9 @@ My portfolio blends statistical intuition with engineering precision — from NY
 
 ## 📂 Featured Projects  
 
+🔹 [NYC Electricity Forecasting (Prophet)](https://github.com/jayashreejohnson/NYC-Electricity-Forecasting)  
+Forecasted NYC energy demand using Facebook Prophet across multiple resolutions and growth curves. Delivered strategic insights for infrastructure planning with 10+ year horizon modeling.
+
 🔹 [NYC Traffic Classification & Regression](https://github.com/jayashreejohnson/NYC-Traffic-ML-Modeling)  
 Analyzed NYC Open Data traffic counts to predict volume and classify congestion levels using Decision Trees, Random Forest, and SGD. Achieved near-perfect accuracy in regression (R² ≈ 1.00) and applied GridSearchCV for hyperparameter tuning.
 
