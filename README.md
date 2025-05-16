@@ -26,6 +26,9 @@ My portfolio blends statistical intuition with engineering precision — from NY
 
 ## 📂 Featured Projects  
 
+🔹 [Diabetes Dataset Regression Analysis](https://github.com/jayashreejohnson/Diabetes-EDA-Regression)  
+Explored clinical data from the Stanford Diabetes dataset using EDA and built interpretable linear models to assess predictors of disease progression. Identified BMI as the most impactful feature (MSE = 3890.46).
+
 🔹 [SQL UDF Logic & Statistics](https://github.com/jayashreejohnson/SQL-UDF-Logic-and-Stats)  
 Built modular SQL user-defined functions to automate logic-based messages, average calculations, and variance computation using `IF`, `WHILE`, and nested function calls in MySQL.
 
