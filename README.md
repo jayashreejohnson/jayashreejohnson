@@ -26,6 +26,9 @@ My portfolio blends statistical intuition with engineering precision — from NY
 
 ## 📂 Featured Projects  
 
+🔹 [Airline Delay Prediction – Big Data + ML](https://github.com/jayashreejohnson/Airline-Delay-Prediction-BigData-ML)  
+Launched Hive queries on AWS EMR to analyze 2003 DOT flight records, identifying delay-heavy carriers and airports. Trained SGD, KNN, and Decision Tree models with GridSearchCV, delivering scalable delay prediction modeling.
+
 🔹 [NYC Electricity Forecasting (Prophet)](https://github.com/jayashreejohnson/NYC-Electricity-Forecasting)  
 Forecasted NYC energy demand using Facebook Prophet across multiple resolutions and growth curves. Delivered strategic insights for infrastructure planning with 10+ year horizon modeling.
 
