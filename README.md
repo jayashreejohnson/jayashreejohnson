@@ -52,7 +52,6 @@ You can view or download my latest resume [CVStandard (PDF)](https://github.com/
 **Open to collaborating on AI,ML Research,and Cloud data analytics**
 
 📢 **Let’s connect**: [LinkedIn](https://www.linkedin.com/in/jayashreejohnson)
-
-📩 jayjohnsonofficial@outlook.com
+                      📩 jayjohnsonofficial@outlook.com
 
 
