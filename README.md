@@ -45,6 +45,10 @@ Explored clinical data from the Stanford Diabetes dataset using EDA and built in
 🔹 [SQL UDF Logic & Statistics](https://github.com/jayashreejohnson/SQL-UDF-Logic-and-Stats)  
 Built modular SQL user-defined functions to automate logic-based messages, average calculations, and variance computation using `IF`, `WHILE`, and nested function calls in MySQL.
 
+### 📄 Resume
+
+You can view or download my latest resume [CVStandard(PDF)](https://github.com/jayashreejohnson/jayashree-resume/raw/main/JayashreeJohnsonCV.pdf)
+
 **Open to collaborating on AI,ML Research,and Cloud data analytics**
 
 📢 **Let’s connect**: [LinkedIn](https://www.linkedin.com/in/jayashreejohnson)
