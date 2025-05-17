@@ -18,7 +18,7 @@ My portfolio blends statistical intuition with engineering precision — from NY
 
 **Data Processing & Analysis**: PySpark, BeautifulSoup, Regex, Featuretools
 
-**Big Data & Cloud**: Hive, AWS EMR,EC2,  HDFS, Google Colab, Jupyter Notebooks
+**Big Data & Cloud**: Hive, AWS EMR, EC2,  HDFS, Google Colab, Jupyter Notebooks
 
 **Techniques**: Supervised & Unsupervised Learning, Classification & Regression, Time Series Forecasting, Dimensionality Reduction (PCA, SVD), Ensemble Methods, Feature Engineering, Cross-Validation, Hyperparameter Tuning
 
