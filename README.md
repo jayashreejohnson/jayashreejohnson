@@ -4,7 +4,7 @@ As a Data Science graduate student at Pace University with roots in biotechnolog
 
 Today, I focus on delivering real-world impact through predictive modeling, big data infrastructure, and scalable AI systems.
 
-My portfolio blends statistical intuition with engineering precision — from NYC crime pattern detection to airline delay forecasting using Hive on AWS EMR. I’m not just experimenting with algorithms, I’m solving structured problems using data as a tool for clarity.
+My portfolio blends statistical intuition with engineering precision — from NYC crime pattern detection to airline delay forecasting using Hive on AWS EC2, EMR. I’m not just experimenting with algorithms, I’m solving structured problems using data as a tool for clarity.
 
 ---
 
