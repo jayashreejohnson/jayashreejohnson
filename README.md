@@ -26,6 +26,9 @@ My portfolio blends statistical intuition with engineering precision — from NY
 
 ## 📂 Featured Projects  
 
+🔹 [Big Five Personality Analysis – Clustering & Classification](https://github.com/yourusername/Big-Five-Personality-Clustering-Classification)  
+Structured large-scale personality survey data using the OCEAN model, applied K-Means clustering to identify behavioral groupings, and built a Logistic Regression classifier to predict personality clusters from psychological traits.
+
 🔹 [CFPB Consumer Complaint Analysis](https://github.com/jayashreejohnson/CFPB-Consumer-Complaint-Analysis)  
 Performed exploratory and statistical analysis on CFPB consumer complaint data to uncover reporting patterns, product-level risk signals, and complaint distribution trends. Developed as an internal academic research publication.
 
