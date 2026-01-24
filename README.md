@@ -46,11 +46,6 @@ Forecasted NYC energy demand using Facebook Prophet across multiple resolutions 
 Analyzed NYC Open Data traffic counts to predict volume and classify congestion levels using Decision Trees, Random Forest, and SGD. Achieved near-perfect accuracy in regression (R² ≈ 1.00) and applied GridSearchCV for hyperparameter tuning.
 
 
-🔹 [Web Scraper: 419 Scam Email Archive](https://github.com/jayashreejohnson/Scam-Email-Web-Scraper)  
-Built an automated scraper to extract timestamped scam email listings from 419scam.org using BeautifulSoup, Requests, and Regex. Produced a structured dataset for future use in fraud detection or NLP modeling.
-
-🔹 [Diabetes Dataset Regression Analysis](https://github.com/jayashreejohnson/Diabetes-EDA--Regression)  
-Explored clinical data from the Stanford Diabetes dataset using EDA and built interpretable linear models to assess predictors of disease progression. Identified BMI as the most impactful feature (MSE = 3890.46).
 
 **📄 Resume:** You can view or download my latest resume [CVStandard (PDF)](https://github.com/jayashreejohnson/jayashree-resume/raw/main/JayashreeJohnsonCV.pdf)
 
