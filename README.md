@@ -26,6 +26,10 @@ My portfolio blends statistical intuition with engineering precision — from NY
 
 ## 📂 Featured Projects  
 
+🔹 [Multimodal-Deep-Learning-Internal-Publication](https://github.com/jayashreejohnson/Multimodal-Deep-Learning-Internal-Publication)  
+Internal research publication presented at a technical conference exploring multimodal deep learning architectures for integrating text, visual, and behavioral signals.  
+Focused on how heterogeneous human-generated data can be fused into unified representations for richer pattern extraction, model generalization, and signal-based understanding beyond single-modality AI systems.
+
 🔹 [Big-Five-Personality-OCEAN-Analysis](https://github.com/jayashreejohnson/Big-Five-Personality-OCEAN-Analysis)  
 Analyzed a large-scale personality assessment dataset (19K+ records, 57 questionnaire-level features) using the OCEAN personality model to extract structured behavioral patterns.  
 
