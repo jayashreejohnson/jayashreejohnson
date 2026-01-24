@@ -26,6 +26,9 @@ My portfolio blends statistical intuition with engineering precision — from NY
 
 ## 📂 Featured Projects  
 
+🔹 [CFPB Consumer Complaint Analysis](https://github.com/jayashreejohnson/CFPB-Consumer-Complaint-Analysis)  
+Performed exploratory and statistical analysis on CFPB consumer complaint data to uncover reporting patterns, product-level risk signals, and complaint distribution trends. Developed as an internal academic research publication.
+
 🔹 [Airline Delay Prediction – Big Data + ML](https://github.com/jayashreejohnson/Airline-Delay-Prediction-BigData-ML)  
 Launched Hive queries on AWS EMR to analyze 2003 DOT flight records, identifying delay-heavy carriers and airports. Trained SGD, KNN, and Decision Tree models with GridSearchCV, delivering scalable delay prediction modeling.
 
