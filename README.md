@@ -52,9 +52,6 @@ Built an automated scraper to extract timestamped scam email listings from 419sc
 🔹 [Diabetes Dataset Regression Analysis](https://github.com/jayashreejohnson/Diabetes-EDA--Regression)  
 Explored clinical data from the Stanford Diabetes dataset using EDA and built interpretable linear models to assess predictors of disease progression. Identified BMI as the most impactful feature (MSE = 3890.46).
 
-🔹 [SQL UDF Logic & Statistics](https://github.com/jayashreejohnson/SQL-UDF-Logic-and-Stats)  
-Built modular SQL user-defined functions to automate logic-based messages, average calculations, and variance computation using `IF`, `WHILE`, and nested function calls in MySQL.
-
 **📄 Resume:** You can view or download my latest resume [CVStandard (PDF)](https://github.com/jayashreejohnson/jayashree-resume/raw/main/JayashreeJohnsonCV.pdf)
 
 **Open to collaborating on AI,ML Research,and Cloud data analytics**
