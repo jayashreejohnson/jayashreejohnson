@@ -37,7 +37,9 @@ AI-powered research signal engine analyzing arXiv data to:
 ⚡ https://eidon-api-001.onrender.com/docs  
 
 ### Main Interface
-<img src="demo-main.png" width="700"/>
+<p align="center">
+  <img src="demo-main.png" width="700">
+</p>
 ---
 
 ## 📊 Impact Snapshot
