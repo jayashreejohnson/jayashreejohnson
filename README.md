@@ -23,7 +23,7 @@ Recently built **Eidon AI**, a research signal engine that analyzes 36K+ arXiv p
 
 ---
 
-## 🚀 Featured Project
+## 🚀 What I’m Building Now
 
 ### Eidon AI
 AI-powered research signal engine analyzing arXiv data to:
@@ -37,7 +37,7 @@ AI-powered research signal engine analyzing arXiv data to:
 
 ---
 
-## 📊 Other Work
+## 📊 Impact Snapshot
 
 - Processed **2M+ consumer complaint records** for NLP classification  
 - Built clustering + classification models on **19K+ behavioral data points**  
