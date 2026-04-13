@@ -69,7 +69,7 @@ Forecasted NYC energy demand using Facebook Prophet across multiple resolutions 
 Analyzed NYC Open Data traffic counts to predict volume and classify congestion levels using Decision Trees, Random Forest, and SGD. Achieved near-perfect accuracy in regression (R² ≈ 1.00) and applied GridSearchCV for hyperparameter tuning.
 
 
-**Open to collaborating on AI,ML Research,and Cloud data analytics**
+**Open to collaborations across data, product, operations, and applied AI**
 
 📢 **Let’s connect**: [LinkedIn](https://www.linkedin.com/in/jayashreejohnson)
                       
