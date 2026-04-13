@@ -40,6 +40,7 @@ AI-powered research signal engine analyzing arXiv data to:
 <p align="center">
   <img src="demo-main.png" width="700">
 </p>
+
 ---
 
 ## 📊 Impact Snapshot
