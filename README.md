@@ -3,6 +3,7 @@
 Data Science graduate student at Pace University with a background in biotechnology and bioinformatics.
 
 I design and build end-to-end machine learning systems — from data collection and feature engineering to modeling, evaluation, and deployment — with a focus on extracting meaningful signals from complex datasets.
+
 Recently built **Eidon AI**, a research signal engine that analyzes 36K+ arXiv papers to classify domains, detect trends, and generate idea-level insights via a deployed API and web application.
 
 ---
