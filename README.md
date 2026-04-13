@@ -1,26 +1,51 @@
-# Where Science meets Software
+# Building systems that turn data into decisions.
 
-As a Data Science graduate student at Pace University with roots in biotechnology and bioinformatics, I transitioned from decoding genomes in the lab to building machine learning pipelines in the cloud. 
+Data Science graduate student at Pace University with a background in biotechnology and bioinformatics.
 
-Today, I focus on delivering real-world impact through predictive modeling, big data infrastructure, and scalable AI systems.
+Data Science graduate student at Pace University with a background in biotechnology and bioinformatics.
 
-My portfolio blends statistical intuition with engineering precision — from NYC crime pattern detection to airline delay forecasting using Hive on AWS EC2, EMR. I’m not just experimenting with algorithms, I’m solving structured problems using data as a tool for clarity.
+I design and build end-to-end machine learning systems — from data collection and feature engineering to modeling, evaluation, and deployment — with a focus on extracting meaningful signals from complex datasets.
+
+Recently built **Eidon AI**, a research signal engine that analyzes 36K+ arXiv papers to classify domains, detect trends, and generate idea-level insights via a deployed API and web application.
 
 ---
 
-## 🔧 Tools & Skills  
+## ⚙️ Tools & Skills
 
-**Languages**: Python, SQL
+**Languages:** Python, SQL  
 
-**Core Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
+**ML & Data:** Pandas, NumPy, Scikit-learn, XGBoost, Statsmodels  
 
-**Advanced ML & Modeling**: XGBoost, Statsmodels, TensorFlow (basic), GridSearchCV
+**Data Engineering:** PySpark, Feature Engineering, Data Pipelines  
 
-**Data Processing & Analysis**: PySpark, BeautifulSoup, Regex, Featuretools
+**Visualization:** Matplotlib, Seaborn, Plotly  
 
-**Big Data & Cloud**: Hive, AWS EMR, EC2,  HDFS, Google Colab, Jupyter Notebooks
+**Systems & Cloud:** FastAPI, REST APIs, AWS (EC2, EMR), Git  
 
-**Techniques**: Supervised & Unsupervised Learning, Classification & Regression, Time Series Forecasting, Dimensionality Reduction (PCA, SVD), Ensemble Methods, Feature Engineering, Cross-Validation, Hyperparameter Tuning
+**Techniques:** Classification, Regression, NLP, Clustering, Model Evaluation  
+
+---
+
+## 🚀 Featured Project
+
+### Eidon AI
+AI-powered research signal engine analyzing arXiv data to:
+- classify research domains  
+- detect emerging trends  
+- generate keyword and positioning insights  
+
+🔗 https://github.com/jayashreejohnson/eidon-ai  
+🌐 https://eidon-web-001.onrender.com  
+⚡ https://eidon-api-001.onrender.com/docs  
+
+---
+
+## 📊 Other Work
+
+- Processed **2M+ consumer complaint records** for NLP classification  
+- Built clustering + classification models on **19K+ behavioral data points**  
+- Designed multimodal deep learning pipelines across **100K+ video frames**  
+- Developed data pipelines and KPI dashboards for real-world user analytics  
 
 ---
 
@@ -45,9 +70,6 @@ Forecasted NYC energy demand using Facebook Prophet across multiple resolutions 
 🔹 [NYC Traffic Classification & Regression](https://github.com/jayashreejohnson/NYC-Traffic-ML-Modeling)  
 Analyzed NYC Open Data traffic counts to predict volume and classify congestion levels using Decision Trees, Random Forest, and SGD. Achieved near-perfect accuracy in regression (R² ≈ 1.00) and applied GridSearchCV for hyperparameter tuning.
 
-
-
-**📄 Resume:** You can view or download my latest resume [CVStandard (PDF)](https://github.com/jayashreejohnson/jayashree-resume/raw/main/JayashreeJohnsonCV.pdf)
 
 **Open to collaborating on AI,ML Research,and Cloud data analytics**
 
