@@ -39,6 +39,8 @@ AI-powered research signal engine analyzing arXiv data to:
 ### Main Interface
 ![Main](https://raw.githubusercontent.com/jayashreejohnson/eidon-ai/main/demo-main.png)
 
+---
+
 ![Results](https://raw.githubusercontent.com/jayashreejohnson/eidon-ai/main/demo-results.png)
 
 ---
