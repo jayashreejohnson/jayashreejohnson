@@ -56,7 +56,7 @@ AI-powered research signal engine analyzing arXiv data to:
 
 ## 📂 Featured Projects  
 
-🔹 [Multimodal-Deep-Learning-Internal-Publication](https://github.com/jayashreejohnson/Multimodal-Deep-Learning-Internal-Publication)  
+🔹 [Multimodal-Deep-Learning-SARD'25-Conference](https://github.com/jayashreejohnson/Multimodal-Deep-Learning-Internal-Publication)  
 Internal research publication presented at a technical conference exploring multimodal deep learning architectures for integrating text, visual, and behavioral signals.  
 Focused on how heterogeneous human-generated data can be fused into unified representations for richer pattern extraction, model generalization, and signal-based understanding beyond single-modality AI systems.
 
