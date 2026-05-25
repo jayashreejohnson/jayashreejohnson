@@ -78,12 +78,11 @@ AI-powered research intelligence platform analyzing arXiv data to:
 ## 📌 Project Preview
 
 ### Main Interface
-<img src="demo-main.png" width="700"/>
-
+<img src="https://raw.githubusercontent.com/jayashreejohnson/eidon/main/demo-main.png" width="700"/>
 ---
 
 ### Results & Predictions
-<img src="demo-results.png" width="700"/>
+<img src="https://raw.githubusercontent.com/jayashreejohnson/eidon/main/demo-results.png" width="700"/>
 
 --- 
 
