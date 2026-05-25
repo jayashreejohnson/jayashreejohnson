@@ -1,74 +1,81 @@
-# Building systems that turn data into decisions.
+# 👋 Building systems that turn data into decisions.
 
 <p align="left">
-
   <a href="https://www.python.org/">
-
     <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python" />
-
   </a>
-
   <a href="https://fastapi.tiangolo.com/">
-
     <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi" />
-
   </a>
-
   <a href="https://scikit-learn.org/">
-
     <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikitlearn" />
-
   </a>
-
   <a href="https://pandas.pydata.org/">
-
     <img src="https://img.shields.io/badge/Pandas-Data%20Science-150458?style=for-the-badge&logo=pandas" />
-
   </a>
-
   <a href="https://render.com/">
-
     <img src="https://img.shields.io/badge/Deployment-Render-purple?style=for-the-badge&logo=render" />
-
   </a>
 </p>
 
-Data Science graduate student at Pace University with a background in biotechnology and bioinformatics.
+Data Science graduate student at Pace University focused on AI/ML, NLP, analytics, and intelligent systems.
 
-I design and build end-to-end machine learning systems — from data collection and feature engineering to modeling, evaluation, and deployment — with a focus on extracting meaningful signals from complex datasets.
+I design and build end-to-end machine learning systems — from data collection and feature engineering to modeling, deployment, APIs, and product-facing workflows.
 
-Recently built **Eidon AI**, a research signal engine that analyzes 36K+ arXiv papers to classify domains, detect trends, and generate idea-level insights via a deployed API and web application.
-
----
-
-## ⚙️ Tools & Skills
-
-**Languages:** Python, SQL  
-
-**ML & Data:** Pandas, NumPy, Scikit-learn, XGBoost, Statsmodels  
-
-**Data Engineering:** PySpark, Feature Engineering, Data Pipelines  
-
-**Visualization:** Matplotlib, Seaborn, Plotly  
-
-**Systems & Cloud:** FastAPI, REST APIs, AWS (EC2, EMR), Git  
-
-**Techniques:** Classification, Regression, NLP, Clustering, Model Evaluation  
+Recently built **Eidon AI**, a deployed research intelligence platform trained on ~36K arXiv research papers to classify domains, analyze trend momentum, detect interdisciplinary overlap, and position research ideas within evolving scientific landscapes.
 
 ---
 
-## 🚀 What I’m Building Now
+# 🚀 What I'm Building Now
 
-### Eidon AI
-AI-powered research signal engine analyzing arXiv data to:
-- classify research domains  
-- detect emerging trends  
-- generate keyword and positioning insights
-  
-💻 Repo: https://github.com/jayashreejohnson/eidon
-🔗 https://github.com/jayashreejohnson/eidon-ai  
-🌐 https://eidon-web-001.onrender.com  
-⚡ https://eidon-api-001.onrender.com/docs  
+## Eidon AI
+
+AI-powered research intelligence platform analyzing arXiv data to:
+
+- classify research domains
+- detect emerging trends
+- analyze idea positioning
+- generate research insights
+- map interdisciplinary overlap
+
+### 🔗 Links
+
+- 💻 Repo: https://github.com/jayashreejohnson/eidon
+- 🌐 Live App: https://eidon-web-001.onrender.com
+- ⚡ API Docs: https://eidon-api-001.onrender.com/docs
+- 🔗 LinkedIn: https://linkedin.com/in/jayashreejohnson
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-Programming-blue?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/FastAPI-APIs-009688?style=flat-square&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=flat-square&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/NLP-TF--IDF-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pandas-Analytics-150458?style=flat-square&logo=pandas" />
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=flat-square&logo=flutter" />
+  <img src="https://img.shields.io/badge/REST-APIs-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Render-Deployment-purple?style=flat-square&logo=render" />
+</p>
+
+---
+
+## 🧠 Focus Areas
+
+- Machine Learning
+- NLP & Text Classification
+- Trend Analysis
+- Research Intelligence Systems
+- FastAPI Backend Development
+- Data Pipelines & EDA
+- Product + AI Workflow Design
+
+---
+
+## 📌 Project Preview
 
 ### Main Interface
 ![Main](https://raw.githubusercontent.com/jayashreejohnson/eidon-ai/main/demo-main.png)
@@ -88,7 +95,7 @@ AI-powered research signal engine analyzing arXiv data to:
 
 ---
 
-## 📂 Featured Projects  
+## 📌 Featured Project Preview 
 
 🔹 [Multimodal-Deep-Learning-SARD'25-Conference](https://github.com/jayashreejohnson/Multimodal-Deep-Learning-Internal-Publication)  
 Internal research publication presented at a technical conference exploring multimodal deep learning architectures for integrating text, visual, and behavioral signals.  
@@ -112,7 +119,11 @@ Analyzed NYC Open Data traffic counts to predict volume and classify congestion 
 
 **Open to collaborations across data, product, operations, and applied AI**
 
-📢 **Let’s connect**: [LinkedIn](https://www.linkedin.com/in/jayashreejohnson)
+## 📫 Connect
+
+- LinkedIn: https://linkedin.com/in/jayashreejohnson
+- GitHub: https://github.com/jayashreejohnson
+- Email: jayjohnsonofficial@outlook.com
                       
                       📩 jayjohnsonofficial@outlook.com
 
