@@ -1,5 +1,38 @@
 # Building systems that turn data into decisions.
 
+<p align="left">
+
+  <a href="https://www.python.org/">
+
+    <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python" />
+
+  </a>
+
+  <a href="https://fastapi.tiangolo.com/">
+
+    <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi" />
+
+  </a>
+
+  <a href="https://scikit-learn.org/">
+
+    <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikitlearn" />
+
+  </a>
+
+  <a href="https://pandas.pydata.org/">
+
+    <img src="https://img.shields.io/badge/Pandas-Data%20Science-150458?style=for-the-badge&logo=pandas" />
+
+  </a>
+
+  <a href="https://render.com/">
+
+    <img src="https://img.shields.io/badge/Deployment-Render-purple?style=for-the-badge&logo=render" />
+
+  </a>
+</p>
+
 Data Science graduate student at Pace University with a background in biotechnology and bioinformatics.
 
 I design and build end-to-end machine learning systems — from data collection and feature engineering to modeling, evaluation, and deployment — with a focus on extracting meaningful signals from complex datasets.
@@ -30,8 +63,9 @@ Recently built **Eidon AI**, a research signal engine that analyzes 36K+ arXiv p
 AI-powered research signal engine analyzing arXiv data to:
 - classify research domains  
 - detect emerging trends  
-- generate keyword and positioning insights  
-
+- generate keyword and positioning insights
+  
+💻 Repo: https://github.com/jayashreejohnson/eidon
 🔗 https://github.com/jayashreejohnson/eidon-ai  
 🌐 https://eidon-web-001.onrender.com  
 ⚡ https://eidon-api-001.onrender.com/docs  
