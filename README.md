@@ -28,6 +28,22 @@ Recently built **Eidon AI**, a deployed research intelligence platform trained o
 
 # 🚀 What I'm Building Now
 
+## FounderFit AI
+
+FounderFit is a multi-agent founder compatibility analysis platform that evaluates founder partnerships across execution style, communication patterns, risk tolerance, decision-making velocity, vision alignment, and operational fit.
+
+### Highlights
+
+- Multi-agent AI compatibility assessment
+- Interactive radar visualizations
+- Founder operating rhythm recommendations
+- Risk and collaboration diagnostics
+- Deployment on Railway
+
+#### Preview
+
+![FounderFit](Preview.png) https://raw.githubusercontent.com/jayashreejohnson/founderfit-ai/main/Preview.png
+
 ## Eidon AI
 
 AI-powered research intelligence platform analyzing arXiv data to:
