@@ -42,7 +42,8 @@ FounderFit is a multi-agent founder compatibility analysis platform that evaluat
 
 #### Preview
 
-![FounderFit](Preview.png) https://raw.githubusercontent.com/jayashreejohnson/founderfit-ai/main/Preview.png
+![FounderFit Preview](https://github.com/jayashreejohnson/founderfit-ai/blob/main/Preview.png?raw=true)
+--- 
 
 ## Eidon AI
 
